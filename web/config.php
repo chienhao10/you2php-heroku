@@ -1,9 +1,9 @@
 <?php
 define('ROOT_PART', Root_part());
-define('APIKEY', '*********************************');//这里改成您的api key
-define('GJ_CODE', 'KR');//国家代码
-define('SITE_NAME', 'Youtube');//网站名字
-define('TITLENAME', 'Youtube');//网站名字
-define('EN2DEKEY', 'AnQUP1XDEF435e67CtzDSh4');//一个随机字符串，加解密KEY
-define('EMAIL', '123@123.com');//邮箱
+define('APIKEY', 'AIzaSyDBc4LDa3V5rC5kNDcZgmQ6jrcCbxZ4D14');//这里改成您的api key
+define('GJ_CODE', 'US');//国家代码
+define('SITE_NAME', 'SGLYTube');//网站名字
+define('TITLENAME', 'SGLYTube');//网站名字
+define('EN2DEKEY', '3G$3s:),-@MRkh<');//一个随机字符串，加解密KEY
+define('EMAIL', 'huangjianhao10@gmail.com');//邮箱
 ?>
